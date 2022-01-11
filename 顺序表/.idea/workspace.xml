@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822dfb34-66a0-47b6-bf1f-20975a5a3c0a" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sTAW4Uau0IssHi64LvLfpVM5EI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../链表" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.main (3)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="城市链表" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序表.main" />
+      <module name="顺序表" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序表.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="链表" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="迷宫" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (3)" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822dfb34-66a0-47b6-bf1f-20975a5a3c0a" name="默认更改列表" comment="" />
+      <created>1620886233177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620886233177</updated>
+      <workItem from="1620886235672" duration="3275000" />
+      <workItem from="1623758123229" duration="2585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="182" key="FileChooserDialogImpl" timestamp="1620886269160">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="667" y="182" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1620886269160" />
+    <state width="1340" height="620" key="GridCell.Tab.0.bottom" timestamp="1623760714452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="620" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1623760714452" />
+    <state width="1340" height="620" key="GridCell.Tab.0.center" timestamp="1623760714452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="620" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1623760714452" />
+    <state width="1340" height="620" key="GridCell.Tab.0.left" timestamp="1623760714452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="620" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1623760714452" />
+    <state width="1340" height="620" key="GridCell.Tab.0.right" timestamp="1623760714452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="620" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1623760714452" />
+    <state width="1340" height="291" key="GridCell.Tab.1.bottom" timestamp="1620902346142">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="291" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1620902346142" />
+    <state width="1340" height="291" key="GridCell.Tab.1.center" timestamp="1620902346142">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="291" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1620902346142" />
+    <state width="1340" height="291" key="GridCell.Tab.1.left" timestamp="1620902346142">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="291" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1620902346142" />
+    <state width="1340" height="291" key="GridCell.Tab.1.right" timestamp="1620902346142">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="291" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1620902346142" />
+    <state x="376" y="182" key="NewModule_or_Project.wizard" timestamp="1620886272857">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="376" y="182" key="NewModule_or_Project.wizard/0.0.1600.900@0.0.1600.900" timestamp="1620886272857" />
+    <state x="202" y="50" key="SettingsEditor" timestamp="1620886275007">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="202" y="50" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1620886275007" />
+    <state x="557" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1623758128024">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="557" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1623758128024" />
+    <state x="97" y="88" key="new project wizard" timestamp="1620886263225">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="97" y="88" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1620886263225" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../迷宫/src/main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

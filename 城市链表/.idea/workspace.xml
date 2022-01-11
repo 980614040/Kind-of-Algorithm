@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b64c925-e0ce-4b2d-9548-416387746dfd" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sT9t2VEVTM7eXYE52JgbQi0KmP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../哈希表设计" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="1" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="KruskalCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KruskalCase" />
+      <module name="克鲁斯卡尔算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="哈希表设计" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dsd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsd" />
+      <module name="克鲁斯卡尔算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.dsd" />
+      <item itemvalue="Application.KruskalCase" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.KruskalCase" />
+        <item itemvalue="Application.dsd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b64c925-e0ce-4b2d-9548-416387746dfd" name="默认更改列表" comment="" />
+      <created>1620885923647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620885923647</updated>
+      <workItem from="1620885927859" duration="17000" />
+      <workItem from="1622113054585" duration="891000" />
+      <workItem from="1622772749676" duration="1429000" />
+      <workItem from="1622774204514" duration="4869000" />
+      <workItem from="1622802124498" duration="6000" />
+      <workItem from="1623309285164" duration="58000" />
+      <workItem from="1623309354540" duration="14603000" />
+      <workItem from="1623377447293" duration="234000" />
+      <workItem from="1623406662030" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="595" y="144" key="#Unnamed" timestamp="1622772859908">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="595" y="144" key="#Unnamed/0.0.1600.900@0.0.1600.900" timestamp="1622772859908" />
+    <state x="333" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622776367769">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="333" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1622776367769" />
+    <state x="757" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1623314193557">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="757" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1623314193557" />
+    <state x="608" y="296" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622776362477">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="608" y="296" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.900@0.0.1600.900" timestamp="1622776362477" />
+    <state x="595" y="144" key="#main" timestamp="1622773288186">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="595" y="144" key="#main/0.0.1600.900@0.0.1600.900" timestamp="1622773288186" />
+    <state x="356" y="149" key="FileChooserDialogImpl" timestamp="1623406761349">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="356" y="149" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1623406761349" />
+    <state width="1129" height="258" key="GridCell.Tab.0.bottom" timestamp="1623377687805">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1129" height="258" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1623377687805" />
+    <state width="1129" height="258" key="GridCell.Tab.0.center" timestamp="1623377687805">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1129" height="258" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1623377687805" />
+    <state width="1129" height="258" key="GridCell.Tab.0.left" timestamp="1623377687804">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1129" height="258" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1623377687804" />
+    <state width="1129" height="258" key="GridCell.Tab.0.right" timestamp="1623377687805">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1129" height="258" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1623377687805" />
+    <state width="1557" height="287" key="GridCell.Tab.1.bottom" timestamp="1623330694056">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="287" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1623330694056" />
+    <state width="1557" height="287" key="GridCell.Tab.1.center" timestamp="1623330694056">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="287" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1623330694056" />
+    <state width="1557" height="287" key="GridCell.Tab.1.left" timestamp="1623330694056">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="287" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1623330694056" />
+    <state width="1557" height="287" key="GridCell.Tab.1.right" timestamp="1623330694056">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="287" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1623330694056" />
+    <state x="445" y="145" width="710" height="581" key="NewModule_or_Project.wizard" timestamp="1623309379398">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="445" y="145" width="710" height="581" key="NewModule_or_Project.wizard/0.0.1600.900@0.0.1600.900" timestamp="1623309379398" />
+    <state x="276" y="26" key="SettingsEditor" timestamp="1623309380842">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="276" y="26" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1623309380842" />
+    <state x="501" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1623406755097">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="501" y="263" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1623406755097" />
+    <state x="339" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1623320636864">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="339" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.900@0.0.1600.900" timestamp="1623320636864" />
+    <state x="400" y="139" width="719" height="548" key="find.popup" timestamp="1622776466048">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="400" y="139" width="719" height="548" key="find.popup/0.0.1600.900@0.0.1600.900" timestamp="1622776466048" />
+    <state x="299" y="132" key="new project wizard" timestamp="1623406808077">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="299" y="132" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1623406808077" />
+    <state x="456" y="205" width="672" height="677" key="run.anything.popup" timestamp="1622777460938">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="456" y="205" width="672" height="677" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1622777460938" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../哈希表设计/src/Main.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../哈希表设计/src/Main.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../哈希表设计/src/Main.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

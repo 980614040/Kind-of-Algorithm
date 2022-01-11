@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40c27a4e-e07d-4e35-9770-d2c18844956f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sT9pJBIO5PuucJmEN9jwAl1uhP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/城市链表" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KruskalCase" />
+      <module name="克鲁斯卡尔算法" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40c27a4e-e07d-4e35-9770-d2c18844956f" name="默认更改列表" comment="" />
+      <created>1620885894176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620885894176</updated>
+      <workItem from="1620885897474" duration="29000" />
+      <workItem from="1622113001950" duration="32000" />
+      <workItem from="1622191666882" duration="1811000" />
+      <workItem from="1622772718102" duration="12000" />
+      <workItem from="1623301764391" duration="32000" />
+      <workItem from="1623301864460" duration="24000" />
+      <workItem from="1623301938502" duration="26000" />
+      <workItem from="1623302009712" duration="94000" />
+      <workItem from="1623302500470" duration="311000" />
+      <workItem from="1623305733879" duration="2921000" />
+      <workItem from="1623748137574" duration="579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623302583680">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1623302583680" />
+    <state x="576" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1623302045168">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="576" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.900@0.0.1600.900" timestamp="1623302045168" />
+    <state x="439" y="93" key="#项目结构" timestamp="1623302098301">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="439" y="93" key="#项目结构/0.0.1600.900@0.0.1600.900" timestamp="1623302098301" />
+    <state x="581" y="196" key="EnvironmentVariablesDialog" timestamp="1623302061953">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="581" y="196" key="EnvironmentVariablesDialog/0.0.1600.900@0.0.1600.900" timestamp="1623302061953" />
+    <state x="571" y="137" key="FileChooserDialogImpl" timestamp="1623309352000">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="571" y="137" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1623309352000" />
+    <state width="1340" height="287" key="GridCell.Tab.0.bottom" timestamp="1623302811616">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="287" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1623302811616" />
+    <state width="1340" height="287" key="GridCell.Tab.0.center" timestamp="1623302811616">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="287" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1623302811616" />
+    <state width="1340" height="287" key="GridCell.Tab.0.left" timestamp="1623302811616">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="287" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1623302811616" />
+    <state width="1340" height="287" key="GridCell.Tab.0.right" timestamp="1623302811616">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1340" height="287" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1623302811616" />
+    <state x="445" y="145" width="710" height="581" key="NewModule_or_Project.wizard" timestamp="1623306091742">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="445" y="145" width="710" height="581" key="NewModule_or_Project.wizard/0.0.1600.900@0.0.1600.900" timestamp="1623306091742" />
+    <state x="443" y="19" key="SettingsEditor" timestamp="1623306095205">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="443" y="19" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1623306095205" />
+    <state x="501" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1623748167312">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="501" y="263" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1623748167312" />
+    <state x="338" y="57" key="new project wizard" timestamp="1623305772893">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="338" y="57" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1623305772893" />
+  </component>
+</project>
